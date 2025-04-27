@@ -1,8 +1,11 @@
 Student Marks Dashboard 📊
+
 Welcome to the Student Marks Dashboard project!
+
 This project showcases a Power BI dashboard built for analyzing student performance data including marks, branch distribution, scholarships, and pass rates.
 
 📋 Project Overview
+
 Tool Used: Power BI
 
 Dataset: Student marks, branch details, scholarship status, and exam pass/fail information.
